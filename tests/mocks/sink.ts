@@ -1,3 +1,10 @@
+/*
+ * @boringnode/transmit
+ *
+ * @license MIT
+ * @copyright BoringNode
+ */
+
 import { Writable } from 'node:stream'
 import type { HeaderStream } from '../../src/stream.js'
 

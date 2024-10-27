@@ -1,3 +1,10 @@
+/*
+ * @boringnode/transmit
+ *
+ * @license MIT
+ * @copyright BoringNode
+ */
+
 import { randomUUID } from 'node:crypto'
 import { IncomingMessage, ServerResponse } from 'node:http'
 import { Socket } from '../mocks/socket.js'

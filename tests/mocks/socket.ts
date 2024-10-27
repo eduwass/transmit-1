@@ -1,3 +1,10 @@
+/*
+ * @boringnode/transmit
+ *
+ * @license MIT
+ * @copyright BoringNode
+ */
+
 import { Socket as NodeSocket } from 'node:net'
 
 export class Socket extends NodeSocket {

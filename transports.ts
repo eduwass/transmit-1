@@ -2,7 +2,7 @@
  * @boringnode/transmit
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 export { redis } from '@boringnode/bus/transports/redis'

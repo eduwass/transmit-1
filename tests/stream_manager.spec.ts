@@ -2,7 +2,7 @@
  * @boringnode/transmit
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import { randomUUID } from 'node:crypto'

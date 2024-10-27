@@ -2,7 +2,7 @@
  * @boringnode/transmit
  *
  * @license MIT
- * @copyright Boring Node
+ * @copyright BoringNode
  */
 
 import matchit from 'matchit'
