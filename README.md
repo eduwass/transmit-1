@@ -73,7 +73,7 @@ The server or instance responsible for your client connection will receive the e
 
 ```ts
 import { Transmit } from '@boringnode/transmit'
-import { redis } from '@boringnode/bus'
+import { redis } from '@boringnode/transmit/transports'
 
 const transmit = new Transmit({
   transport: {
